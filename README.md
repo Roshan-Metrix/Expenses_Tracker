@@ -21,14 +21,14 @@ This project is licensed under the [MIT License](license.txt).
  ```bash
  https://github.com/Roshan-Metrix/ Expenses_Tracker.git
 
- * Navigate to the project directory:
+ 2. Navigate to the project directory:
  ```bash
  cd expenses_tracker
 
- * Install dependencies
+ 3. Install dependencies
 ```bash
  npm install
 
- * Run App
+ 4. Run App
  ```bash
  npm start dev

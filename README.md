@@ -32,5 +32,3 @@ This project is licensed under the [MIT License](license.txt).
  * Run App
  ```bash
  npm start dev
-
- - Enjoy

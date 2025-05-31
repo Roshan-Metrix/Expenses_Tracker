@@ -30,18 +30,3 @@ This project is licensed under the [MIT License](license.txt).
 4. Run App
   ```bash
 npm start dev
-
- 
- 
- 
-
- /*
- 2. Navigate to the project directory:
-
- 3. Install dependencies
-
- 4. Run App
- 
- 
-
- */

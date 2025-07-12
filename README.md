@@ -56,6 +56,8 @@ Step-by-step instructions to set up the project locally:
 
 This project is licensed under the [MIT License](license.txt).
 
+[Screenshots](screenshot.jpeg)
+
   
 
 

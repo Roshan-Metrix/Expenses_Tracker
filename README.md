@@ -55,7 +55,8 @@ Step-by-step instructions to set up the project locally:
 
        npm start dev
 
-       - **Docker**:
+  - **Docker**:
+   
 3. Build and run the container
 
        docker-compose up --build

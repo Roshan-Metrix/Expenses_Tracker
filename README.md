@@ -43,6 +43,10 @@ Step-by-step instructions to set up the project locally:
 
        cd expenses_tracker
 
+<i>Either install locally or run in a container</i>
+
+   - **Locally**:
+   
 3. Install dependencies
 
        npm install  
@@ -51,7 +55,15 @@ Step-by-step instructions to set up the project locally:
 
        npm start dev
 
-  
+       - **Docker**:
+3. Build and run the container
+
+       docker-compose up --build
+
+4. Access the app
+
+       Open your browser and go to http://localhost:5173
+
 ## License
 
 This project is licensed under the [MIT License](license.txt).

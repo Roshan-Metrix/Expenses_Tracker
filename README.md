@@ -12,6 +12,8 @@ A tracker app that tracks your expenses and incomes and give the current balance
 
 -  [License](#license)
 
+-  [Screenshot](#screenshot)
+
   
 
 ##  Technologies-Used

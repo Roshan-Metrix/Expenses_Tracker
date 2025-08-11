@@ -47,23 +47,25 @@ Step-by-step instructions to set up the project locally:
 
    - **Locally**:
    
-3. Install dependencies
+- Install dependencies
 
        npm install  
 
-4. Run App
+- Run App
 
        npm start dev
 
-  - **Docker**:
+- **Docker**:
    
-3. Build and run the container
+- Build and run the container
 
        docker-compose up --build
 
-4. Access the app
+-- Access the app
 
-       Open your browser and go to http://localhost:5173
+   Open your browser and go to
+
+        http://localhost:5173 
 
 ## License
 
